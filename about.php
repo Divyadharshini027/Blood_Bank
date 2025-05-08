@@ -28,8 +28,6 @@ include('includes/config.php');
 	<!-- Style-CSS -->
 	<link rel="stylesheet" href="css/fontawesome-all.css">
 	<!-- Font-Awesome-Icons-CSS -->
-	<!-- //Custom-Files -->
-
 	<!-- Web-Fonts -->
 	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese"
 	    rel="stylesheet">
